@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xml:id="bladsf">
+    <title>foo</title>
+    <para>Some paragraph.</para>
+    <para xml:id="def">Some definition.</para>
+    <para>Some other paragraph.</para>
+</section>
