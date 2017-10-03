@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:db="http://docbook.org/ns/docbook" xmlns:la="http://www.w3.org/2001/XInclude/local-attributes" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="section.yk2_wfr_kbb" version="5.0">   
+    <title>xi:include 1.1 example</title>
+    <para xml:id="def" xml:base="src.xml" db:security="will-be-passed-down-with-namespace">Some definition.</para>        
+    <para xml:id="this-id-should-not-be-copied-down" xml:base="src.xml" condition="will-be-passed-down-with-namespace-stripped">Some definition.</para>
+</section>
